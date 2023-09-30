@@ -14,7 +14,7 @@ JavaScript
 
 ## Links 
 [GitHub]()
-[Live URL](https://rhettroseman.github.io/buttered-bread/)
+[Live URL](https://rhettroseman.github.io/buttered-bread)
 
 
 ## Screenshots
