@@ -23,7 +23,7 @@ CSS
 JavaScript 
 
 ## Links 
-[GitHub]()
+[GitHub](https://github.com/RhettRoseman/buttered-bread/tree/main)
 [Live URL](https://rhettroseman.github.io/buttered-bread)
 
 
