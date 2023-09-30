@@ -1,10 +1,20 @@
 # Quiz App
 ## Description
 IF I want to Test my knowledge of javascript 
+
 THEN I press the start button 
+
 WHEN I press the start button 
+
 THEN a timer starts and the first question shows
-IF I choose my 
+
+IF I choose my answer 
+
+THEN the next question shows 
+
+IF I run out of time 
+
+THEN a message replaces the screen
 
 ## Technologies
 
